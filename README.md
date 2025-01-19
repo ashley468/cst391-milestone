@@ -38,5 +38,4 @@
 - *Say classes here!!
 
 # Risks
-- *Say risks here!!
-
+- *Database Design Issues: Later on, it's possible that the database might need adjustements such as new requirements or adding/removing more products. 
