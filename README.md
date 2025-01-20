@@ -16,7 +16,14 @@
 
 
 # Functionality Requirements
-- *Say requirements here!!
+1. As a customer, I want to browse a list of available products to explore the music store's inventory. 
+2. As a customer, I want to view details of a specific product to learn more about it before purchasing. 
+3. As a customer, I want to search for specific items using keywords or categories. 
+
+4. As a store user, I want to be able to delete products that may not be available in the store anymore. 
+5. As a store user, I want to be able to add new products to the store's invetory.
+6. As a store user, I want to update any details to the store's products so that its information can be accurate. 
+
 
 
 # ER Diagram
