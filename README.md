@@ -1,8 +1,8 @@
 # Milestone 1
 - Author: Ashley Barron
-- Application Name: **Music Store
-- CST-391
-- Title: **Milestone 1
+- Application Name: Music Store
+- Class: CST-391
+- Title: Milestone 1
 
 
 
@@ -38,4 +38,8 @@
 - *Say classes here!!
 
 # Risks
-- *Database Design Issues: Later on, it's possible that the database might need adjustements such as new requirements or adding/removing more products. 
+- Database Design Issues: Later on, it's possible that the database might need adjustements such as new requirements or adding/removing more products. 
+
+- Time Management: Balancing multiple classes and milestones could make time management challenging. There's a risk of running short on time for completing tasks, especially as deadlines overlap or unexpected compliccations arise. 
+
+- Technical Debt: Rushing through the initial stages of development to meet deadlines could lead to inefficient solutions or messy code. 
