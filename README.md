@@ -27,22 +27,19 @@
 
 
 # ER Diagram
-- *Say diagram here!!
+![ERDiagram](er.png)
 
 
-
-
-# UI Sitemap
-- *Say sitemap here!!
-
-
+# UI Sitemap Diagram
+![UISitemap](uiSitemap.png)
 
 
 # UI Wireframe
-- *Say wireframe here!!
+![Wireframe](wireframe.png)
 
 # UML Classes
-- *Say classes here!!
+![UML](umlClasses.png
+p[iscss])
 
 # Risks
 - Database Design Issues: Later on, it's possible that the database might need adjustements such as new requirements or adding/removing more products. 
