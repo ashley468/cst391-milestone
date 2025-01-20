@@ -8,7 +8,7 @@
 
 
 # Introduction
- - For this milestone I plan on creating a music store. The store will sell a variety of products, including musical instruments such as guitars and pianos, accessories  like guitar picks and strings, and music media such as CDs and DVDs.
+ - For this milestone I plan on creating a music store. The store will sell a variety of products, including musical instruments such as guitars and pianos, accessories like guitar picks and strings, and music media such as CDs and DVDs.
 
 - The application will allow users to browse and manage these products through a simple back-end and front-end system, combining functionality for listing, creating, reading, updating, and deleting a "product". This milestone will help demonstrate the application of back-end and front-end technologies, including the use of databases, REST APIs, and user interfaces. 
 
@@ -21,24 +21,24 @@
 3. As a customer, I want to search for specific items using keywords or categories. 
 
 4. As a store user, I want to be able to delete products that may not be available in the store anymore. 
-5. As a store user, I want to be able to add new products to the store's invetory.
+5. As a store user, I want to be able to add new products to the store's inventory.
 6. As a store user, I want to update any details to the store's products so that its information can be accurate. 
 
 
 
 # ER Diagram
-![ERDiagram](er.png)
+![ERDiagram](milestone1/er.png)
 
 
 # UI Sitemap Diagram
-![UISitemap](uiSitemap.png)
+![UISitemap](milestone1/uiSitemap.png)
 
 
 # UI Wireframe
-![Wireframe](wireframe.png)
+![Wireframe](milestone1/wireframe.png)
 
 # UML Classes
-![UML](umlClasses.png)
+![UML](milestone1/umlClasses.png)
 
 # Risks
 - Database Design Issues: Later on, it's possible that the database might need adjustments such as new requirements or adding/removing more products. 
