@@ -38,8 +38,7 @@
 ![Wireframe](wireframe.png)
 
 # UML Classes
-![UML](umlClasses.png
-p[iscss])
+![UML](umlClasses.png)
 
 # Risks
 - Database Design Issues: Later on, it's possible that the database might need adjustements such as new requirements or adding/removing more products. 
