@@ -27,18 +27,18 @@
 
 
 # ER Diagram
-![ERDiagram](milestone1/er.png)
+![ERDiagram](er.png)
 
 
 # UI Sitemap Diagram
-![UISitemap](milestone1/uiSitemap.png)
+![UISitemap](uiSitemap.png)
 
 
 # UI Wireframe
-![Wireframe](milestone1/wireframe.png)
+![Wireframe](wireframe.png)
 
 # UML Classes
-![UML](milestone1/umlClasses.png)
+![UML](umlClasses.png)
 
 # Risks
 - Database Design Issues: Later on, it's possible that the database might need adjustments such as new requirements or adding/removing more products. 
