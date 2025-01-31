@@ -18,7 +18,6 @@
 
 
 
-
 # Introduction
  - For this milestone I plan on creating a music store. The store will sell a variety of products, including musical instruments such as guitars and pianos, accessories like guitar picks and strings, and music media such as CDs and DVDs.
 
