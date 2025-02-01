@@ -81,19 +81,19 @@
         "id": 1,
         "type": "guitar",
         "brand": "Martin",
-        "model": "D-28",
+        "model": "D-28"
     },
     {
         "id": 2,
         "type": "battery",
         "brand": "Tama",
-        "model": "Imperialstar",
+        "model": "Imperialstar"
     },
     {
         "id": 3,
         "type": "violin",
         "brand": "Yamaha",
-        "model": "AV7",
+        "model": "AV7"
     }
 ]
 ```
