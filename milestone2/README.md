@@ -90,7 +90,7 @@ Response:
     },
     {
         "id": 3,
-        "type: "violin",
+        "type": "violin",
         "brand": "Yamaha",
         "model": "AV7",
     }
