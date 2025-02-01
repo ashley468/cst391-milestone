@@ -72,6 +72,7 @@
 # API Requests
 ### Instruments
 
+```json
 GET /instruments
 Response:
 [
@@ -93,11 +94,8 @@ Response:
         "brand": "Yamaha",
         "model": "AV7",
     }
-    
-    
-    *DELETE, PUT!!!**
-
-
-
-
 ]
+```
+
+    *DELETE, PUT!!!**
+    media & accessories!!!
