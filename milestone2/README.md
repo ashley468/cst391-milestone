@@ -55,10 +55,14 @@
 
 <br>
 
-|**Method** | **Endpoint**     |   **Description**
+|**Method** | **Endpoint**     |   **Description**|
 |------------|--------------------|--------------------------------------------|
 |GET|   instruments    |   Retrieve a list of all instruments|
 |GET|   accesories  | Retrieve a list of all accesories|
 |GET|   media   |   Retrieve a list of all media|
 |DELETE|    instruments     |   Delete an instrument|
+|DELETE|    accesories     |   Delete an accesory|
+|DELETE|    media           |   Delete a media|
 |PUT|   instruments     |   Update an instrument|
+|PUT|   accesories      |   Update an eccesory|
+|PUT|   media           |   Update a media|
