@@ -96,7 +96,3 @@
         "model": "AV7"
     }
 ]
-```
-
-    *DELETE, PUT!!!**
-    media & accessories!!!
