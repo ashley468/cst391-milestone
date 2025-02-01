@@ -71,7 +71,7 @@
 
 
 # API Introduction
-- The API of this project is designed to provide a simple way for the user to make changes to the products of their choice such as retrieiving, adding, or deleting them. 
+- The API of this project is designed to provide a straightforward and efficient way for users to manage products. Users can retrieve information about products of their choice, add new products, or delete existing ones. This structure ensures flexibility and ease of use for various product management operations.
 
 
 # API Requests
