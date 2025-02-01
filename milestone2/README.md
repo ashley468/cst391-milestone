@@ -317,7 +317,7 @@
                 "type": "guitar pick"
             }
         },
-        DELETE /instrument/5
+        DELETE /accessory/5
         Response:
         {
             "message": "Accessory Deleted!",
@@ -327,7 +327,7 @@
                 "type": "violin bow"
             }
         },
-        DELETE /instrument/6
+        DELETE /accessory/6
         Response:
         {
             "message": "Accessory Deleted!",
