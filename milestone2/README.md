@@ -50,8 +50,8 @@
 
 - Technical Debt: Rushing through the initial stages of development to meet deadlines could lead to inefficient solutions or messy code. 
 
-# Introcue your rest API
-- *The rest end points used in this milestone are...
+# Rest Endpoints
+- The  Endpoints used in this milestone are designed to interact with the music store's inventory, allowing users to perform tasks such as deleting, updating, and retrieving products. These endpoints are structured to follow the REST conventions, ensuring ease of use when managing instruments, their accessories, and media items. 
 
 <br>
 
@@ -66,3 +66,38 @@
 |PUT|   instruments/:id     |   Update an instrument by its ID|
 |PUT|   accessories/:id      |   Update an accessory by its ID|
 |PUT|   media/:id           |   Update a media by its ID|
+
+<br>
+
+# API Requests
+### Instruments
+
+GET /instruments
+Response:
+[
+    {
+        "id": 1,
+        "type": "guitar",
+        "brand": "Martin",
+        "model": "D-28",
+    },
+    {
+        "id": 2,
+        "type": "battery",
+        "brand": "Tama",
+        "model": "Imperialstar",
+    },
+    {
+        "id": 3,
+        "type: "violin",
+        "brand": "Yamaha",
+        "model": "AV7",
+    }
+    
+    
+    *DELETE, PUT!!!**
+
+
+
+
+]
