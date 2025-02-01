@@ -14,7 +14,7 @@
 
 
 # Introduction
- - For this milestone I plan on creating a music store. The store will sell a variety of products, including musical instruments such as guitars and pianos, accessories like guitar picks and strings, and music media such as CDs and DVDs.
+ - For this milestone I plan on creating a music store. The store will sell a variety of products, including musical instruments such as guitars and violins, accessories like guitar picks and strings, and music media such as CDs and DVDs.
 
 - The application will allow users to browse and manage these products through a simple back-end and front-end system, combining functionality for listing, creating, reading, updating, and deleting a "product". This milestone will help demonstrate the application of back-end and front-end technologies, including the use of databases, REST APIs, and user interfaces. 
 
@@ -96,3 +96,53 @@
         "model": "AV7"
     }
 ]
+```
+
+### Accessories
+```json
+  GET /accessories
+  Response:
+  [
+    {
+        "id": 4,
+        "type": "guitar pick",
+    },
+    {
+        "id": 5,
+        "type": "violin bow",
+    },
+    {
+        "id": 6,
+        "type": "drumstick"
+    }
+  ]
+```
+
+### Media
+```json
+[
+    {
+        "id": 7,
+        "type": "CDs",
+        "artist": "Lady Gaga",
+        "album title": "The Fame Monster",
+        "release year": 2009
+    },
+    {
+        "id": 8,
+        "type": "DVDs",
+        "artist": "Taylor Swift",
+        "album title": "1989",
+        "release year": 2014
+    },
+    {
+        "id": 9,
+        "type": "vinyl",
+        "artist": "Billie Eilish",
+        "album title": "Don't smile at me",
+        "release year": 2017
+    }
+]
+```
+    *DELETE, PUT!!!**
+    media & accessories!!!
