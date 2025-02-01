@@ -73,8 +73,9 @@
 ### Instruments
 
 ```json
-GET /instruments
-Response:
+  GET /instruments
+  Response:
+
 [
     {
         "id": 1,
