@@ -58,11 +58,11 @@
 |**Method** | **Endpoint**     |   **Description**|
 |------------|--------------------|--------------------------------------------|
 |GET|   instruments    |   Retrieve a list of all instruments|
-|GET|   accesories  | Retrieve a list of all accesories|
+|GET|   accessories  | Retrieve a list of all accessories|
 |GET|   media   |   Retrieve a list of all media|
-|DELETE|    instruments/:id     |   Delete an instrument|
-|DELETE|    accesories/:id     |   Delete an accesory|
-|DELETE|    media/:id           |   Delete a media|
-|PUT|   instruments/:id     |   Update an instrument|
-|PUT|   accesories/:id      |   Update an eccesory|
-|PUT|   media/:id           |   Update a media|
+|DELETE|    instruments/:id     |   Delete an instrument by its ID|
+|DELETE|    accessories/:id     |   Delete an accessory by its ID|
+|DELETE|    media/:id           |   Delete a media by its ID|
+|PUT|   instruments/:id     |   Update an instrument by its ID|
+|PUT|   accessories/:id      |   Update an accessory by its ID|
+|PUT|   media/:id           |   Update a media by its ID|
