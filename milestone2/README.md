@@ -120,6 +120,8 @@
 
 ### Media
 ```json
+    GET /accessories
+  Response:
 [
     {
         "id": 7,
