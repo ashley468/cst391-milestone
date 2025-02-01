@@ -57,8 +57,8 @@
 
 |**Method** | **Endpoint**     |   **Description**
 |------------|--------------------|--------------------------------------------|
-|GET|instruments|Retrieve a list of all instruments|
-|GET|accesories|Retrieve a list of all accesories|
-|GET|media|Retrieve a list of all media|
-|DELETE|instruments|Delete an instrument|
-|PUT|instruments|Update an instrument|
+|GET|   instruments    |   Retrieve a list of all instruments|
+|GET|   accesories  | Retrieve a list of all accesories|
+|GET|   media   |   Retrieve a list of all media|
+|DELETE|    instruments     |   Delete an instrument|
+|PUT|   instruments     |   Update an instrument|
