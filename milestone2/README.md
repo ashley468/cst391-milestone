@@ -120,29 +120,29 @@
 
 ### Media
 ```json
-    GET /accessories
+  GET /media
   Response:
 [
     {
         "id": 7,
         "type": "CDs",
         "artist": "Lady Gaga",
-        "album title": "The Fame Monster",
-        "release year": 2009
+        "albumTitle": "The Fame Monster",
+        "releaseYear": 2009
     },
     {
         "id": 8,
         "type": "DVDs",
         "artist": "Taylor Swift",
-        "album title": "1989",
-        "release year": 2014
+        "albumTitle": "1989",
+        "releaseYear": 2014
     },
     {
         "id": 9,
         "type": "vinyl",
         "artist": "Billie Eilish",
-        "album title": "Don't smile at me",
-        "release year": 2017
+        "albumTitle": "Don't smile at me",
+        "releaseYear": 2017
     }
 ]
 ```
