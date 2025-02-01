@@ -69,6 +69,11 @@
 
 <br>
 
+
+# API Introduction
+- The API of this project is designed to provide a simple way for the user to make changes to the products of their choice such as retrieiving, adding, or deleting them. 
+
+
 # API Requests
 
 ## GET
