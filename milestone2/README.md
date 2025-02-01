@@ -9,7 +9,7 @@
 - Ashley, excellent work on this assignment
 
 # Response to Feedback
-- No specific changes were made for the milestone as the past one met all requirements. 
+- No specific changes were made for the milestone as the past one met all requirements. However, I reviewed my work to ensure that past requirements and project goals were met and well aligned with future project development. 
 
 
 
@@ -77,7 +77,6 @@
 ```json
   GET /instruments
   Response:
-
 [
     {
         "id": 1,
