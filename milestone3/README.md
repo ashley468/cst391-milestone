@@ -14,16 +14,16 @@
 - **The application must ...
 
 # Sitemap
-- **Below is the Sitemap ...
+![UISitemap](uiSitemap.png)
 
 # Wireframes
-- **Below are the Wireframes ...
+![Wireframe](wireframe.png)
 
 # Database Design
-- **The following diagram is the Entity Relationship Diagram (ERD) showing ...
+![ERDiagram](er.png)
 
 # Class Diagrams
-- **The following diagrams are the Class diagrams showing ...
+![ClassDiagrams](classdiagrams.png)
 
 # REST Endpoints
 - **The Endpoints used in this ...
