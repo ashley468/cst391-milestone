@@ -5,7 +5,10 @@
 - Title: Milestone 3
 
 # Introduction
-- **Explain your application throughly ...
+- For my milestone, I'm developing a web application for a music store. In this store, I will be selling a variety of products such as musical instruments (guitars, drum kits, and violins), accessories (guitar pick, violin bow, and drumstick), and Media (CD, DVD, Vindyl records). The application will allow users to browse through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's bacn-end and front-end technologies, including the use of Databases, REST APIs, and user interfaces. 
+
+# Changes 
+- ** drum kit and more propertiess!!!
 
 # Requirements
 - **The application must ...
@@ -28,3 +31,4 @@
 # ***API Example API Requests
 - **GET, POST, PUT, DELETE
 
+# ** To-do?
