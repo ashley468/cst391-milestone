@@ -133,7 +133,7 @@
 ]
 ```
 
-# POST
+## POST
 ### Instruments
 ```json
  POST /instruments
