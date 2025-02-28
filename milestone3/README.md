@@ -10,7 +10,6 @@
 # Changes 
 - ** For the milestone I made a few changes. One was where I changed the instrument "battery" to "drum kit" to make it a bit more clear and avoid confusion. In future milestones I may add a piano or other instruments. The three instruments I chose are to get me going for the beggining of the milestone. I may do the same for accessories. I may add guitar strings, or objects to clean instruments. For media I could add music sheets, or bue ray disks. 
 - Another change I made was in the REST Endpoints. In the previous milestone I implemented GET, PUT, and DELETE. In this milestone, I added POST endpoint, which allows the user to add a music item to their shopping cart.
-- **API requests change battery to drum kit!!!
 
 
 # Requirements
@@ -53,8 +52,7 @@
 - **gddghs
 
 
-# ***API Example API Requests
-- **GET, POST, PUT, DELETE
+# API Requests
 
 ## GET
 ### Instruments
@@ -71,7 +69,7 @@
     },
     {
         "id": 2,
-        "type": "drumkit",
+        "type": "drum kit",
         "brand": "Tama",
         "model": "Imperialstar"
     },
@@ -150,7 +148,7 @@
         },
         {
         "id": 2,
-        "type": "battery",
+        "type": "drum kit",
         "brand": "Tama",
         "model": "Imperialstar"
         },
@@ -243,7 +241,7 @@
         "data":
         {
             "id": 2,
-            "type": "battery",
+            "type": "drum kit",
             "brand": "Tama",
             "model": "Imperialstar"
         }
@@ -357,7 +355,7 @@
             "data":
             {
                 "id": 2,
-                "type": "battery",
+                "type": "drum kit",
                 "brand": "Tama",
                 "model": "Imperialstar"
             }
