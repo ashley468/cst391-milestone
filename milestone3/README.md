@@ -10,6 +10,8 @@
 # Changes 
 - ** For the milestone I made a few changes. One was where I changed the instrument "battery" to "drum kit" to make it a bit more clear and avoid confusion. In future milestones I may add a piano or other instruments. The three instruments I chose are to get me going for the beggining of the milestone. I may do the same for accessories. I may add guitar strings, or objects to clean instruments. For media I could add music sheets, or bue ray disks. 
 - Another change I made was in the REST Endpoints. In the previous milestone I implemented GET, PUT, and DELETE. In this milestone, I added POST endpoint, which allows the user to add a music item to their shopping cart.
+- **API requests change battery to drum kit!!!
+
 
 # Requirements
 - **The application must ...
@@ -47,8 +49,178 @@
 |PUT|   media/:id           |   Update a media by its ID|
 
 
+# Intro API?
+- **gddghs
+
+
 # ***API Example API Requests
 - **GET, POST, PUT, DELETE
+
+## GET
+### Instruments
+
+```json
+  GET /instruments
+  Response:
+[
+    {
+        "id": 1,
+        "type": "guitar",
+        "brand": "Martin",
+        "model": "D-28"
+    },
+    {
+        "id": 2,
+        "type": "battery",
+        "brand": "Tama",
+        "model": "Imperialstar"
+    },
+    {
+        "id": 3,
+        "type": "violin",
+        "brand": "Yamaha",
+        "model": "AV7"
+    }
+]
+```
+
+### Accessories
+```json
+  GET /accessories
+  Response:
+  [
+    {
+        "id": 4,
+        "type": "guitar pick",
+    },
+    {
+        "id": 5,
+        "type": "violin bow",
+    },
+    {
+        "id": 6,
+        "type": "drumstick"
+    }
+  ]
+```
+
+### Media
+```json
+  GET /media
+  Response:
+[
+    {
+        "id": 7,
+        "type": "CDs",
+        "artist": "Lady Gaga",
+        "albumTitle": "The Fame Monster",
+        "releaseYear": 2009
+    },
+    {
+        "id": 8,
+        "type": "DVDs",
+        "artist": "Taylor Swift",
+        "albumTitle": "1989",
+        "releaseYear": 2014
+    },
+    {
+        "id": 9,
+        "type": "vinyl",
+        "artist": "Billie Eilish",
+        "albumTitle": "Don't smile at me",
+        "releaseYear": 2017
+    }
+]
+```
+# POST
+### Instruments
+```json
+ POST /instruments
+ Response:
+ {
+    "message": "Instrument added!",
+    "data":
+    [
+        {
+        "id": 1,
+        "type": "guitar",
+        "brand": "Martin",
+        "model": "D-28"
+        },
+        {
+        "id": 2,
+        "type": "battery",
+        "brand": "Tama",
+        "model": "Imperialstar"
+        },
+        {
+        "id": 3,
+        "type": "violin",
+        "brand": "Yamaha",
+        "model": "AV7"
+        }
+    ]
+}
+```
+
+### Accessories
+``` json
+    POST/ accessories
+    Response:
+    {
+        "message": "Accessory added!",
+        "data":
+        [
+            {
+                "id": 4,
+                "type": "guitar pick"
+            },
+            {
+                "id": 5,
+                "type": "violin bow"
+            },
+            {
+                "id": 6,
+                "type": "drumstick"
+            }
+        ]
+    }
+```
+
+### Media
+``` json
+    POST /media
+    Response:
+    {
+        "message": "Media added!",
+        "data":
+        {
+            {
+                "id": 7,
+                "type": "CDs",
+                "artist": "Lady Gaga",
+                "albumTitle": "The Fame Monster",
+                "releaseYear": 2009
+            },
+            {
+                "id": 8,
+                "type": "DVDs",
+                "artist": "Taylor Swift",
+                "albumTitle": "1989",
+                "releaseYear": 2014
+            },
+            {
+                "id": 9,
+                "type": "vinyl",
+                "artist": "Billie Eilish",
+                "albumTitle": "Don't smile at me",
+                "releaseYear": 2017
+            }
+        }
+    }
+```
+
+
 
 
 # ** To-do?
