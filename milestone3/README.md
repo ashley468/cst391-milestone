@@ -71,7 +71,7 @@
     },
     {
         "id": 2,
-        "type": "battery",
+        "type": "drumkit",
         "brand": "Tama",
         "model": "Imperialstar"
     },
@@ -132,6 +132,7 @@
     }
 ]
 ```
+
 # POST
 ### Instruments
 ```json
@@ -165,7 +166,7 @@
 
 ### Accessories
 ``` json
-    POST/ accessories
+    POST /accessories
     Response:
     {
         "message": "Accessory added!",
@@ -194,7 +195,7 @@
     {
         "message": "Media added!",
         "data":
-        {
+        [
             {
                 "id": 7,
                 "type": "CDs",
@@ -216,11 +217,243 @@
                 "albumTitle": "Don't smile at me",
                 "releaseYear": 2017
             }
-        }
+        ]
     }
 ```
 
+## PUT
+### Instruments
+```json
+  PUT /instruments
+  Response:
 
+[
+    {
+        "message": "Instrument Updated!",
+        "data":
+        {
+            "id": 1,
+            "type": "guitar",
+            "brand": "Martin",
+            "model": "D-28"
+        }
+    },
+    {
+        "message": "Instrument Updated!",
+        "data":
+        {
+            "id": 2,
+            "type": "battery",
+            "brand": "Tama",
+            "model": "Imperialstar"
+        }
+    },
+    {
+        "message": "Instrument Updated!",
+        "data":
+        {
+            "id": 3,
+            "type": "violin",
+            "brand": "Yamaha",
+            "model": "AV7"
+        }
+    }
+]
+```
+
+### Accessories
+```json
+    PUT /accessories
+    Response:
+    [
+        {
+            "message": "Accessory Updated!",
+            "data":
+            {
+                "id": 4,
+                "type": "guitar pick"
+            }
+        },
+        {
+            "message": "Accessory Updated!",
+            "data":
+            {
+                "id": 5,
+                "type": "violin bow"
+            }
+        },
+        {
+            "message": "Accessory Updated!",
+            "data":
+            {
+                "id": 6,
+                "type": "drumstick"
+            }
+        }
+    ]
+```
+
+### Media
+```json
+  PUT /media
+  Response:
+  [
+    {
+        "message": "Media Updated!",
+        "data":
+        {
+            "id": 7,
+            "type": "CDs",
+            "artist": "Lady Gaga",
+            "albumTitle": "The Fame Monster",
+            "releaseYear": 2009
+        }
+    },
+    {
+            "message": "Media Updated",
+            "data":
+            {
+                "id": 8,
+                "type": "DVDs",
+                "artist": "Taylor Swift",
+                "albumTitle": "1989",
+                "releaseYear": 2014
+            }
+    },
+    {
+        "message": "Media Updated!",
+        "data":
+        {
+            "id": 9,
+            "type": "vinyl",
+            "artist": "Billie Eilish",
+            "albumTitle": "Don't smile at me",
+            "releaseYear": 2017
+        }
+    }
+  ]
+```
+
+## DELETE
+### Instruments
+```json
+    DELETE /instrument/1
+    Response:
+    
+        {
+            "message": "Instrument Deleted!",
+            "data":
+            {
+                "id": 1,
+                "type": "guitar",
+                "brand": "Martin",
+                "model": "D-28"
+            }
+        },
+        DELETE /instrument/2
+        Response:
+        {
+            "message": "Instrument Deleted!",
+            "data":
+            {
+                "id": 2,
+                "type": "battery",
+                "brand": "Tama",
+                "model": "Imperialstar"
+            }
+        },
+        DELETE /instrument/3
+        Response:
+        {            
+            "message": "Instrument Deleted!",
+            "data":
+            {
+                "id": 3,
+                "type": "violin",
+                "brand": "Yamaha",
+                "model": "AV7"
+            }
+        }
+```
+
+### Accessories
+```json
+    DELETE /accessory/4
+    Response:
+    
+        {
+            "message": "Accessory Deleted!",
+            "data":
+            {
+                "id": 4,
+                "type": "guitar pick"
+            }
+        },
+        DELETE /accessory/5
+        Response:
+        {
+            "message": "Accessory Deleted!",
+            "data":
+            {
+                "id": 5,
+                "type": "violin bow"
+            }
+        },
+        DELETE /accessory/6
+        Response:
+        {
+            "message": "Accessory Deleted!",
+            "data":
+            {
+                "id": 6,
+                "type": "drumstick"
+            }
+        }
+```
+
+### Media
+```json
+    DELETE /media/7
+    Response:
+    
+        {
+            "message": "Media Deleted!",
+            "data":
+            {
+                "id": 7,
+                "type": "CDs",
+                "artist": "Lady Gaga",
+                "albumTitle": "The Fame Monster",
+                "releaseYear": 2009
+            }
+        },
+        DELETE /media/8
+        Response:
+        {
+            "message": "Media Deleted!",
+            "data":
+            {
+                "id": 8,
+                "type": "DVDs",
+                "artist": "Taylor Swift",
+                "albumTitle": "1989",
+                "releaseYear": 2014
+            }
+        },
+        DELETE /media/9
+        Response:
+        {
+            "message": "Media Deleted!",
+            "data":
+            {
+                "id": 9,
+                "type": "vinyl",
+                "artist": "Billie Eilish",
+                "albumTitle": "Don't smile at me",
+                "releaseYear": 2017
+            }
+        }
+```
 
 
 # ** To-do?
