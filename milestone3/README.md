@@ -8,7 +8,7 @@
 - For my milestone, I'm developing a web application for a music store. In this store, I will be selling a variety of products such as musical instruments (guitars, drum kits, and violins), accessories (guitar picks, violin bows, and drumsticks), and Media (CDs, DVDs, and vinyl records). The application will allow users to browse through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's bacn-end and front-end technologies, including the use of Databases, REST APIs, and user interfaces. 
 
 # Changes/Updates
-- ** For the milestone I made a few changes. One was where I changed the instrument "battery" to "drum kit" to make it a bit more clear and avoid confusion. In future milestones I may add a piano or other instruments. The three instruments I chose are to get me going for the beggining of the milestone. I may do the same for accessories. I may add guitar strings, or objects to clean instruments. For media I could add music sheets, or bue ray disks. 
+- For the milestone I made a few changes. One was where I changed the instrument "battery" to "drum kit" to make it a bit more clear and avoid confusion. In future milestones I may add a piano or other instruments. The three instruments I chose are to get me going for the beggining of the milestone. I may do the same for accessories. I may add guitar strings, or objects to clean instruments. For media I could add music sheets, or bue ray disks. 
 - Another change I made was in the REST Endpoints. In the previous milestone I implemented GET, PUT, and DELETE. In this milestone, I added POST endpoint, which allows the user to add a music item to their shopping cart.
 
 # Table Updates
@@ -17,7 +17,6 @@
 |-----------|-----------------|-------------|-----------------|
 |Instrument Name | Changed "battery" to "drumkit". | Complete | None |
 |Adding POST| Added POST to API responses.  | Complete | None |
-
 
 
 # Requirements
@@ -56,8 +55,9 @@
 |PUT|   media/:id           |   Update a media by its ID|
 
 
-# Intro API?
-- **gddghs
+# API Introduction
+- The API of this project is designed to provide a straightforward and efficient way for users to manage products. Users can retrieve information about products of their choice, add new products, or delete existing ones. This structure ensures flexibility and ease of use for various product management operations.
+
 
 
 # API Requests
