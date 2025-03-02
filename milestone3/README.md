@@ -9,7 +9,7 @@
 
 **Screencast** (***!!!hfbvhfb)
 
-**Powerpoint** (***!!!vjfgjfh)
+[Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EeCUyI4L7FNNgwPz9trU7fEBzEIHs66Tu5xOEkBAo8g0ZA?e=fImD17)
 
 # Changes/Updates
 - For the milestone I made a few changes. One was where I changed the instrument "battery" to "drum kit" to make it a bit more clear and avoid confusion. In future milestones I may add a piano or other instruments. The three instruments I chose are to get me going for the beggining of the milestone. I may do the same for accessories. I may add guitar strings, or objects to clean instruments. For media I could add music sheets, or bue ray disks. 
