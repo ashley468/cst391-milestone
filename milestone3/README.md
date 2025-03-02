@@ -7,7 +7,7 @@
 # Introduction
 - For my milestone, I'm developing a web application for a music store. In this store, I will be selling a variety of products such as musical instruments (guitars, drum kits, and violins), accessories (guitar picks, violin bows, and drumsticks), and Media (CDs, DVDs, and vinyl records). The application will allow users to browse through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's bacn-end and front-end technologies, including the use of Databases, REST APIs, and user interfaces. 
 
-**Screencast** (***!!!hfbvhfb)
+[Screencast](https://www.loom.com/share/cc63adb99f1845adb628f4b5d8885575)
 
 [Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EeCUyI4L7FNNgwPz9trU7fEBzEIHs66Tu5xOEkBAo8g0ZA?e=fImD17)
 
