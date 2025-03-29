@@ -14,12 +14,8 @@ export class ListInstrumentComponent implements OnInit {
   constructor(private musicService: MusicServiceService) { }
 
   ngOnInit(): void {
-    // Make sure you're getting the latest instruments after creation
-    this.musicService.getInstrument((instruments) => {
-      this.instruments = instruments;
-    });
+    this.loadInstruments();
   }
-  
 
   loadInstruments(): void{
     this.musicService.getInstrument((instruments) => {

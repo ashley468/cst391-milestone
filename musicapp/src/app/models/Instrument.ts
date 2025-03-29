@@ -1,27 +1,18 @@
 import { Media } from "./Media";
 
 export class Instrument {
-    private id: number = 1;
     private type: string = "";
     private brand: string = "";
     private model: string = "";
     private media: Media[] = [];
 
-    constructor(id: number, type: string, brand: string, model: string, media: Media[]) {
-        this.id = id;
+    constructor(type: string, brand: string, model: string, media: Media[]) {
         this.type = type;
         this.brand = brand;
         this.model = model;
         this.media = media;
     }
 
-    get Id(): number{
-        return this.Id;
-    }
-
-    set Id(id: number){
-        this.id = id;
-    }
 
     get Type(): string {
         return this.type;
