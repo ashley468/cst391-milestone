@@ -1,0 +1,28 @@
+<div align="center">
+	<div class="card mb-6" style="max-width: 500px;">
+		<div class="row no-gutters">
+			<div class="col-md-4">
+				<div style="height:150px; width:150px; overflow:hidden;">
+				</div>
+			</div>
+			
+			<div class="col-md-8">
+				<div class="card-body">
+					<h5 class="card-type">{{ instrument!.type }}</h5>
+					<p class="card-text">{{ instrument!.type }}</p>
+					<p class="card-text"><small class="text-muted">{{ instrument!.type }}</small></p>
+					<table>
+						<tr>
+							<td width="50px" align="center">
+								<a [routerLink]="['/edit', instrument!.type]"><i class="fa fa-edit"></i></a>
+							</td>
+							<td width="50px" align="center">
+								<a [routerLink]="['/delete', instrument!.type]"><i class="fa fa-trash"></i></a>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

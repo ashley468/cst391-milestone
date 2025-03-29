@@ -1,0 +1,56 @@
+{
+  "instruments": [
+    {
+      "id": 1,
+      "type": "guitar",
+      "brand": "Martin",
+      "model": "D-28"
+    },
+    {
+      "id": 2,
+      "type": "drum kit",
+      "brand": "Tama",
+      "model": "Imperialstar"
+    },
+    {
+      "id": 3,
+      "type": "violin",
+      "brand": "Yamaha",
+      "model": "AV7"
+    }
+  ],
+  "accessories": [
+    {
+      "type": "guitar pick"
+    },
+    {
+      "type": "violin bow"
+    },
+    {
+      "type": "drumstick"
+    }
+  ],
+  "media": [
+    {
+      "id": 7,
+      "type": "CDs",
+      "artist": "Lady Gaga",
+      "albumTitle": "The Fame Monster",
+      "releaseYear": 2009
+    },
+    {
+      "id": 8,
+      "type": "DVDs",
+      "artist": "Taylor Swift",
+      "albumTitle": "1989",
+      "releaseYear": 2014
+    },
+    {
+      "id": 9,
+      "type": "vinyl",
+      "artist": "Billie Eilish",
+      "albumTitle": "Don't Smile at Me",
+      "releaseYear": 2017
+    }
+  ]
+}

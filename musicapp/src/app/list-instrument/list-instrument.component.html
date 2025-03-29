@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>Instrument List</h2>
+
+  <div class="list-group">
+    <button class="list-group-item" *ngFor="let instrument of instruments" 
+      (click)="onSelectInstrument(instrument)">
+      {{ instrument.type }} - {{ instrument.brand }}
+    </button>
+  </div>
+
+  <app-display-instrument *ngIf="selectedInstrument" 
+    [instrument]="selectedInstrument"></app-display-instrument>
+</div>

@@ -1,0 +1,20 @@
+<div align="center" style="margin-left:50px;margin-right:50px" *ngIf="!wasSubmitted">
+  <form (ngSubmit)="onSubmit()" #createForm="ngForm">
+    <div class="form-group">
+      <label for="instrument">Instrument Type</label>
+      <input id="instrument" type="text" class="form-control" placeholder="Enter the Instrument Type" required [(ngModel)]="instrument.type" name="type">
+
+      <label for="brand">Brand</label>
+      <input id="brand" type="text" class="form-control" placeholder="Enter the Instrument Brand" required [(ngModel)]="instrument.brand" name="brand">
+
+      <label for="model">Model</label>
+      <input id="model" type="text" class="form-control" placeholder="Enter the Instrument Model" required [(ngModel)]="instrument.model" name="model">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+
+<div *ngIf="wasSubmitted">
+  Instrument was added successfully.
+</div>
