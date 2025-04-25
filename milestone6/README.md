@@ -5,7 +5,7 @@
 - Title: Milestone 6
 
 # Introduction
-- *For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. 
+- For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. 
 
 **Screencast*
 
