@@ -33,6 +33,8 @@
 
 6. As a store user, I want to update any details to the store's products so that its information can be accurate.
 
+**Add pics?*
+
 # Sitemap
 ![UISitemap](uiSitemap.png)
 
