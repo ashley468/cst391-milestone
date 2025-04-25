@@ -7,7 +7,13 @@
 # Introduction
 - For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. In this store, I'm selling a variety of products such as musical instruments (guitars, drum kits, and violins). Before I had a few more products such as media and cds, but I decided to remove that for the time being. The application will allow users to browse through the navbar pages and through a simple back-end and front-end system, providing functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's back-end and front-end technologies, including the use of REST APIs and user interfaces.
 
-**Screencast*
+[ScreencastPowerpoint](https://youtu.be/So0wqa9CvBg)
+
+[ScreencastMilestone4](https://www.loom.com/share/bc3827eddd364f5285a1557f588c89aa)
+
+[ScreencastMilestone5](https://www.loom.com/share/6149f0f2d24f4f5c96999a243b3a62c8)
+
+
 
 [Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EUnyANiBftFJsY3XsENgGWYBL0jiBz-qu-gTqt-e_Y9p-Q?e=Yo1vYA)
 
