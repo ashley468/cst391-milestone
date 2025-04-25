@@ -9,11 +9,10 @@
 
 **Screencast*
 
-**Powerpoint*
+[Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EVnN4cVzLMtAoHYFz1crcJ8BGqSq2YUlIZXU0dIwAGd4zw?e=mjfSuk)
 
 # Changes/Updates
--*For the milestone,...
-
+-*For the milestone, I'm developing my music store 
 # Table Updates
 
 |**Update** | **Description** | **Status** | **Known Issues** |
