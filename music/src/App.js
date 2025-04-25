@@ -26,6 +26,9 @@ const App = () => {
   return (
     <Router>
       <NavBar />
+      
+      <h1 className="text-center"><u>Online Music Store</u></h1>
+      
 
       <Routes>
         <Route

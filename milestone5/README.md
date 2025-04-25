@@ -7,12 +7,12 @@
 # Introduction
 - For my milestone, I'm now developing the music store application. In this store, I'm selling a variety of products such as musical instruments (guitars, drum kits, and violins), accessories (guitar picks, violin bows, and drumsticks), and Media (CDs, DVDs, and vinyl records). The application will allow users to browse through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's back-end and front-end technologies, including the use of REST APIs and user interfaces. 
 
-**Screencast*
+[Screencast](https://www.loom.com/share/6149f0f2d24f4f5c96999a243b3a62c8)
 
 [Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EVnN4cVzLMtAoHYFz1crcJ8BGqSq2YUlIZXU0dIwAGd4zw?e=mjfSuk)
 
 # Changes/Updates
--*For the milestone, I'm developing my music store 
+-*For the milestone, I'm developing my music store with React. This time I added images for the instruments
 # Table Updates
 
 |**Update** | **Description** | **Status** | **Known Issues** |

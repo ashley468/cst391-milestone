@@ -1,5 +1,4 @@
 const fetchAlbums = async () => {
-    // Simulating fetching album data
     return [
       {
         id: 1,
