@@ -5,14 +5,14 @@
 - Title: Milestone 6
 
 # Introduction
-- *For my final milestone,
+- *For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. 
 
 **Screencast*
 
-**Powerpoint*
+[Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EUnyANiBftFJsY3XsENgGWYBL0jiBz-qu-gTqt-e_Y9p-Q?e=Yo1vYA)
 
 # Changes/Updates
-- *For the milestone,
+- For this milestone, there aren't any major updates since I'm combining and presenting past milestones into a powerpoint presentation and screencast. 
 
 # Table Updates
 
@@ -32,8 +32,6 @@
 5. As a store user, I want to be able to add new products to the store's inventory.
 
 6. As a store user, I want to update any details to the store's products so that its information can be accurate.
-
-**Add pics?*
 
 # Sitemap
 ![UISitemap](uiSitemap.png)
