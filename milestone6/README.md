@@ -5,7 +5,7 @@
 - Title: Milestone 6
 
 # Introduction
-- For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. 
+- For my final milestone, I'm combining milestones 3, 4, & 5. I'm including their challenges, pending bugs, and what I learned from them. My milestones included the information and demonstration of the two different ways I created my music store application. In this store, I'm selling a variety of products such as musical instruments (guitars, drum kits, and violins). Before I had a few more products such as media and cds, but I decided to remove that for the time being. The application will allow users to browse through the navbar pages and through a simple back-end and front-end system, providing functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's back-end and front-end technologies, including the use of REST APIs and user interfaces.
 
 **Screencast*
 
