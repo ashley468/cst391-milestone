@@ -7,8 +7,6 @@
 # Introduction
 - *For my final milestone,
 
-
-
 **Screencast*
 
 **Powerpoint*
