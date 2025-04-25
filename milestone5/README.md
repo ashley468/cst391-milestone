@@ -12,12 +12,14 @@
 [Powerpoint](https://1drv.ms/p/c/fc1efc517c6a978f/EVnN4cVzLMtAoHYFz1crcJ8BGqSq2YUlIZXU0dIwAGd4zw?e=mjfSuk)
 
 # Changes/Updates
--*For the milestone, I'm developing my music store with React. This time I added images for the instruments
+-For the milestone, I'm developing my music store with React. This time I added images for the instruments so that the user can get more of an idea of what they want to buy and so that it come become more appealing to the eye. Another change was that instead of having different pages to add, create, or edit the insturment, I added buttons. Once the user selects the instrument they want, they will see a description of it and decide whether they want to add, delete, or edit it by clicking on one of the buttons underneath the image of the instrument. 
+
 # Table Updates
 
 |**Update** | **Description** | **Status** | **Known Issues** |
 |-----------|-----------------|-------------|-----------------|
-| N/A | N/A | N/A | N/A |
+| Images | For the instruments, I decided to add images so that the user can understand how the instrument of theic choice looks | Complete | Update images in future |
+| Buttons | For this milestone, instead of having different pages to complete a CRUD operation, I added buttons | incomplete | Update functions in future |
 
 
 # Requirements
