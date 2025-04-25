@@ -5,7 +5,7 @@
 - Title: Milestone 5
 
 # Introduction
-- For my milestone, I'm now developing the music store application. In this store, I'm selling a variety of products such as musical instruments (guitars, drum kits, and violins), accessories (guitar picks, violin bows, and drumsticks), and Media (CDs, DVDs, and vinyl records). The application will allow users to browse through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's back-end and front-end technologies, including the use of REST APIs and user interfaces. 
+- For my milestone, I'm developing again the music store application. In this store, I'm selling a variety of products such as musical instruments (guitars, drum kits, and violins). Before I had a few more products such as media and cds, but I decided to remove that for the time being. The application will allow users to browse through the navbar pages and through a simple back-end and front-end system, providing  functionality for reading, creating, listing, listing, updating, and deleting an item/product from the store. This milestone will desmonstrate the application's back-end and front-end technologies, including the use of REST APIs and user interfaces. 
 
 [Screencast](https://www.loom.com/share/6149f0f2d24f4f5c96999a243b3a62c8)
 
